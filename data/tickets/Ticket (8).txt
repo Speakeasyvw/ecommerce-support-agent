@@ -1,0 +1,6 @@
+Ticket T8
+Order: 100108
+Store: Nordhaven Home [US]
+From: Michael Reed (michael.reed@example.com)
+Subject: Package delivered to the wrong address
+"The tracking says delivered but it was left at a different address. I never got my pillow."

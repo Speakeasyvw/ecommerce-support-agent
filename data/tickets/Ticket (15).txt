@@ -1,0 +1,6 @@
+Ticket T15
+Order: 100105
+Store: Lumea Beauty [UK]
+From: James Hill (james.hill@example.co.uk)
+Subject: Follow-up on my order
+"Following up on my previous message. Any news about the serum?"

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.env.*
+*.sqlite3
+*.db
+
+# VSCode
+.vscode/
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+
+# Logs
+*.log
+logs_azure_openai.txt
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# Archivos de configuración locales
+config/.env
+
+
+
+
+# Otros
+.DS_Store
+Thumbs.db
+# Historial local
+historial_clientes.db

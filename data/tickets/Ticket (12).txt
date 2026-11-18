@@ -1,0 +1,6 @@
+Ticket T12
+Order: 100112
+Store: Lumea Beauty [UK]
+From: Henry Clarke (henry.clarke@example.co.uk)
+Subject: Delivery delayed
+"My package seems to be held somewhere. Is there anything I need to do?"

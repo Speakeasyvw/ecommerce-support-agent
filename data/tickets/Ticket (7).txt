@@ -1,0 +1,6 @@
+Ticket T7
+Order: 100107
+Store: Nordhaven Home [US]
+From: Olivia Brooks (olivia.brooks@example.com)
+Subject: Items arrived broken
+"Two of the glass jars arrived cracked. What can you do about this?"

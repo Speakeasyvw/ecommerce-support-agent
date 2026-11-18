@@ -1,0 +1,5 @@
+Ticket T13
+Store: Nordhaven Home [US]
+From: Unknown Sender (no.order.found@example.com)
+Subject: Hello
+"Hi, I bought something from your store a while ago and I want to know what happened with it."

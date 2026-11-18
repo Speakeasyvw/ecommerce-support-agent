@@ -1,0 +1,6 @@
+Ticket T3
+Order: 100103
+Store: Nordhaven Home [US]
+From: Emily Carter (emily.carter@example.com)
+Subject: Tracking stuck - no movement for days
+"Hi, my order has been stuck at the same status for a long time with no updates. Is there a problem with the delivery?"

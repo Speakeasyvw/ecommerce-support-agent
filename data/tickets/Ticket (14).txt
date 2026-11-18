@@ -1,0 +1,6 @@
+Ticket T14
+Order: 100199
+Store: Nordhaven Home [US]
+From: Chris Young (chris.young@example.com)
+Subject: Where is my order?
+"I can't see any updates on my order. Please advise."

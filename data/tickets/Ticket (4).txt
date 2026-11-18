@@ -1,0 +1,6 @@
+Ticket T4
+Order: 100104
+Store: Lumea Beauty [UK]
+From: Sophie Turner (sophie.turner@example.co.uk)
+Subject: Refund request
+"Hello, the facial roller is not what I expected and I would like a refund, please."

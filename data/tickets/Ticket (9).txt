@@ -1,0 +1,6 @@
+Ticket T9
+Order: 100109
+Store: Lumea Beauty [UK]
+From: Grace Allen (grace.allen@example.co.uk)
+Subject: Wrong product received
+"I ordered sheet masks but received a different product. Please help."

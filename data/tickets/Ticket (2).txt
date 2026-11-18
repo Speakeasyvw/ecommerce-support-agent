@@ -1,0 +1,6 @@
+Ticket T2
+Order: 100102
+Store: Nordhaven Home [US]
+From: Daniel Price (daniel.price@example.com)
+Subject: When will my order arrive?
+"Hi, my order says it has shipped. Could you tell me when I should expect it?"

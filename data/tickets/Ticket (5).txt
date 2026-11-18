@@ -1,0 +1,5 @@
+Ticket T5
+Store: Lumea Beauty [UK]
+From: James Hill (james.hill@example.co.uk)
+Subject: Order status
+"Hi, I ordered a serum last week and haven't received any shipping confirmation yet. Can you check my order?"

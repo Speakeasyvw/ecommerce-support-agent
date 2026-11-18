@@ -1,0 +1,6 @@
+Ticket T10
+Order: 100110
+Store: Nordhaven Home [US]
+From: Ethan Cole (ethan.cole@example.com)
+Subject: Change color of my order
+"Hi, could I change the blanket color from grey to beige before it ships?"
